@@ -9,6 +9,8 @@ pdf: https://www.vldb.org/2025/Workshops/VLDB-Workshops-2025/LSGDA/LSGDA25_02.pd
 arxiv: https://arxiv.org/abs/2412.06216
 doi: https://doi.org/10.48550/arXiv.2412.06216
 citation: 'Zhang, Y., Hua, Z., Yuan, L. "Top-r Influential Community Search in Bipartite Graphs." In *VLDB Workshops 2025 (LSGDA)*; also as arXiv:2412.06216.'
+header:
+  teaser: /images/top1.png
 ---
 ![](/images/top1.png)
 **Abstract.**  
