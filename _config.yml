@@ -11,7 +11,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 author:
   name: "Yanxin Zhang"
   avatar: "/images/IMG_3857.jpg"  # 放在 /images/avatar.jpg
-  bio: "Undergraduate @ UW–Madison. Research: ML for Systems, LLM Inference"
+  bio: "Undergraduate @ UW–Madison. Prev @ AWS. Research: ML for Systems, LLM Inference"
   location: "United States"
   email: "yzhang2879@wisc.edu"
   github: "yanxinzhangcs"
