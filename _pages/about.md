@@ -7,7 +7,7 @@ author_profile: true
 
 ## Education
 - **University of Wisconsin–Madison**, B.S. in Computer Science, GPA **3.9/4.0**  
-  *Sep 2022 – May 2026*  
+  *(Expected)May 2026*  
   Coursework: Data Structures, Algorithms, Database, AI, Web, Computer Networks
 
 ## Research Experience
@@ -41,11 +41,10 @@ author_profile: true
   Community-driven goals & progress tracking; DRF APIs; image processing with PIL.
 
 ## Honors & Awards
-- **UW–Madison Sophomore Research Fellowship** — \$3000 (2025)  
-- **Dean’s List**, UW–Madison (2024)
+- **UW–Madison Sophomore Research Fellowship** — \$3000  
+- **Dean’s List**, UW–Madison
 
 ## Links
 - Email: <yzhang2879@wisc.edu>  
 - GitHub: <https://github.com/yanxinzhangcs>  
 - SBEL: <https://sbel.wisc.edu/> · Chrono: <https://github.com/projectchrono/chrono>  
-- V. Singh: <https://www.biostat.wisc.edu/~vsingh/> · K. Sankaralingam: <https://karu.sites.cs.wisc.edu/wiki/>
