@@ -9,6 +9,8 @@ arxiv: https://arxiv.org/abs/2509.22410
 pdf: https://arxiv.org/pdf/2509.22410.pdf
 doi: https://doi.org/10.48550/arXiv.2509.22410
 citation: 'Wadle, S., Zhang, Y., Singh, V., Sankaralingam, K. "NeuroScalar: A Deep Learning Framework for Fast, Accurate, and In-the-Wild Cycle-Level Performance Prediction." arXiv:2509.22410 (2025).'
+header:
+  teaser: /images/scaler1.png  
 
 
 ---
