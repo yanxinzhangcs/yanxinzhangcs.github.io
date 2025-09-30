@@ -43,6 +43,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jemoji
+  - jekyll-include-cache 
 
 markdown: kramdown
 highlighter: rouge
