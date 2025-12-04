@@ -8,6 +8,7 @@ author_profile: true
 ## Publications
 
 <style>
+.page__title { font-size: 1.8rem; }
 .pub-list { font-size: 0.9rem; line-height: 1.5; padding-left: 1.2em; }
 .pub-list li { margin-bottom: 0.4rem; }
 .pub-list a { font-weight: 600; }
