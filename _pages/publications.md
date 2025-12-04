@@ -8,13 +8,14 @@ author_profile: true
 ## Publications
 
 <style>
-.pub-list { font-size: 0.95rem; line-height: 1.5; }
+.pub-list { font-size: 0.9rem; line-height: 1.5; padding-left: 1.2em; }
+.pub-list li { margin-bottom: 0.4rem; }
 .pub-list a { font-weight: 600; }
 </style>
 
-<div class="pub-list">
+<ul class="pub-list">
 {% assign pubs = site.publications | sort: "date" | reverse %}
 {% for pub in pubs %}
-- [{{ pub.title }}]({{ pub.url | relative_url }}) — {{ pub.authors }}
+  <li><a href="{{ pub.url | relative_url }}">{{ pub.title }}</a> — {{ pub.authors }}</li>
 {% endfor %}
-</div>
+</ul>
