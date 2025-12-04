@@ -10,7 +10,7 @@ arxiv: https://arxiv.org/abs/2512.04048
 doi: https://doi.org/10.48550/arXiv.2512.04048
 citation: 'Fang, S., Feng, Y., Zhong, H., Zhang, Y., Metaxas, D. N. "Stable Signer: Hierarchical Sign Language Generative Model." arXiv:2512.04048, 2025.'
 header:
-  teaser: /images/top1.png
+  teaser: /images/SS_cover5.pdf
 ---
 ![](/images/SS_cover5.pdf)
 
