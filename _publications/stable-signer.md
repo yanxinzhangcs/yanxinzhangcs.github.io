@@ -1,6 +1,6 @@
 ---
 title: "Stable Signer: Hierarchical Sign Language Generative Model"
-authors: Sen Fang, Yalin Feng, Hongbin Zhong, Yanxin Zhang, Dimitris N. Metaxas
+authors: Sen Fang*, Yalin Feng*, Hongbin Zhong, Yanxin Zhang, Dimitris N. Metaxas
 collection: publications
 date: 2025-12-03
 venue: "arXiv 2025"

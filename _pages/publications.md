@@ -7,11 +7,14 @@ author_profile: true
 
 ## Publications
 
-- **NeuroScalar: A Deep Learning Framework for Fast, Accurate, and In-the-Wild Cycle-Level Performance Prediction**  
-  Shayne Wadle, *Yanxin Zhang*(co-first author), Vikas Singh, Karthikeyan Sankaralingam  
-  [[arXiv]](https://arxiv.org/abs/2509.22410)
+<style>
+.pub-list { font-size: 0.95rem; line-height: 1.5; }
+.pub-list a { font-weight: 600; }
+</style>
 
-- **Top-r Influential Community Search in Bipartite Graphs (VLDB Workshop LSGDA Best Paper Award)**  
-  *Yanxin Zhang*, Zhengyu Hua, Long Yuan  
-  [[VLDB Workshop]](https://www.vldb.org/2025/Workshops/VLDB-Workshops-2025/LSGDA/LSGDA25_02.pdf) 
-
+<div class="pub-list">
+{% assign pubs = site.publications | sort: "date" | reverse %}
+{% for pub in pubs %}
+- [{{ pub.title }}]({{ pub.url | relative_url }}) — {{ pub.authors }}
+{% endfor %}
+</div>
