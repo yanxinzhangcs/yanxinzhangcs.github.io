@@ -16,6 +16,6 @@ author_profile: true
 <ul class="pub-list">
 {% assign pubs = site.publications | sort: "date" | reverse %}
 {% for pub in pubs %}
-  <li><a href="{{ pub.url | relative_url }}">{{ pub.title }}</a> — {{ pub.authors }}</li>
+  <li><a href="{{ pub.url | relative_url }}">{{ pub.title }}</a> — {{ pub.authors }}{% if pub.venue %} — {{ pub.venue }}{% endif %}</li>
 {% endfor %}
 </ul>

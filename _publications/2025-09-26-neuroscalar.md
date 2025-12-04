@@ -1,6 +1,6 @@
 ---
 title: "NeuroScalar: A Deep Learning Framework for Fast, Accurate, and In-the-Wild Cycle-Level Performance Prediction"
-authors: Shayne Wadle, Yanxin Zhang, Vikas Singh, Karthikeyan Sankaralingam
+authors: Yanxin Zhang*, Shayne Wadle*, Vikas Singh, Karthikeyan Sankaralingam
 collection: publications
 date: 2025-09-26
 venue: "arXiv"
